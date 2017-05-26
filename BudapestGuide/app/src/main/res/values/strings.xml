@@ -1,0 +1,160 @@
+<resources>
+    <string name="app_name">Budapest Guide</string>
+
+    <!-- Titles for tabs -->
+
+    <string name="tab_attractions">Attractions</string>
+    <string name="tab_events">Events</string>
+    <string name="tab_top_places">Top Places</string>
+    <string name="tab_hidden">Hidden</string>
+    <string name="tab_phrases">Phrases</string>
+
+    <!-- Attraction Fragment -->
+
+    <string name="castle">Buda Castle and Matthias Church</string>
+    <string name="bridge">Chain Bridge</string>
+    <string name="parliament">Budapest Parliament</string>
+    <string name="square">Heroes Square</string>
+    <string name="basilica">St. Stephens Basilica</string>
+    <string name="avenue">Andrassy Avenue</string>
+    <string name="synagogue">Dohany Street Synagogue</string>
+    <string name="island">Margaret Island"</string>
+    <string name="spa">SPAs in Budapest</string>
+    <string name="hill">Gellert Hill and Citadel</string>
+    <string name="market">Central Market</string>
+    <string name="shopping_street">Vaci Street</string>
+
+    <!-- Events Fragment -->
+
+    <!-- Months -->
+    <string name="january">January</string>
+    <string name="february">February</string>
+    <string name="march">March</string>
+    <string name="april">April</string>
+    <string name="may">May</string>
+    <string name="june">June</string>
+    <string name="july">July</string>
+    <string name="august">August</string>
+    <string name="september">September</string>
+    <string name="october">October</string>
+    <string name="november">November</string>
+    <string name="december">December</string>
+
+    <!-- Events -->
+    <string name="new_years_concerts">New Years Concerts in Budapest</string>
+    <string name="folk_music">Celebration of Folk Music</string>
+    <string name="farsang">Farsang, Carnival Season</string>
+    <string name="day_of_eating">Fat Thursday</string>
+    <string name="easter">Easter in Budapest</string>
+    <string name="st_patric">St Patricks Day Parade</string>
+    <string name="palinka_fest">Budapest Palinka Festival</string>
+    <string name="spring_fest">Budapest Spring Festival</string>
+    <string name="cherry_blossom">April - Cherry Blossom Festival in Budapest</string>
+    <string name="gourmet">May - Gourmet Festival</string>
+    <string name="labor_day">May Day (Labor Day) Celebrations in Budapest</string>
+    <string name="may_fest">May fest at the Opera House</string>
+    <string name="beer_fest">Belgian Beer Festival</string>
+    <string name="jazz">Jazz Spring</string>
+    <string name="open_museums">Jun - The Night of the Museums</string>
+    <string name="carnival">Danube Carnival</string>
+    <string name="wagner_fest">Wagner in Budapest Opera Festival</string>
+    <string name="air_race">Red Bull Air Race World Series</string>
+    <string name="summer_fest">Vajdahunyadvar Summer Festival</string>
+    <string name="pride">Budapest Pride</string>
+    <string name="hungaroring">Formula 1 Hungarian Grand Prix</string>
+    <string name="sziget">Sziget Festival</string>
+    <string name="stephen">St. Stephens Day</string>
+    <string name="jewish_fest">Jewish Summer Festival</string>
+    <string name="half_marathon">Budapest International Half Marathon</string>
+    <string name="gallop">National Gallop</string>
+    <string name="halloween">Halloween in Budapest</string>
+    <string name="organ_concert">Organ Concert in Budapest</string>
+    <string name="whisky">Whisky Show</string>
+    <string name="gastro_fair">Flavors of Hungary Gastro Fair</string>
+    <string name="wine_and_cheese_fest">New Wine and Cheese Festival</string>
+    <string name="christmas_markets">Budapest Christmas Markets</string>
+    <string name="gipsy_band">Gala Concert of the 100-Member Gipsy Band</string>
+    <string name="new_year">New Year in Budapest</string>
+
+    <!-- Top Places Fragment -->
+
+    <string name="szimpla_kert">Szimpla Kert</string>
+    <string name="sirius">Altair / Sirius Tea house</string>
+    <string name="onyx">Onyx Restaurant</string>
+    <string name="gerbeaud">Gerbeaud Bistro</string>
+    <string name="cafe_factory">Cafe Factory</string>
+    <string name="bors">Bors Gastrobar</string>
+    <string name="kandallo">Kandallo</string>
+    <string name="frei">Cafe Frei</string>
+    <string name="vakeger">Vakeger stock pub</string>
+    <string name="zeller">Zeller Bistro</string>
+    <string name="cserpes">Cserpes Tejivo</string>
+    <string name="gundel">Gundel Restaurant</string>
+    <string name="szimpla_bar">Szimpla Cafe/ Craft Beer Bar</string>
+    <string name="bagolyvar">Bagolyvar Restaurant</string>
+    <string name="hrabal">Hrabal</string>
+
+    <!-- Hidden Fragment -->
+
+    <string name="bed_cinema">Buda Bed cinema"</string>
+    <string name="vampire_play">Dance of the Vampire play in Budapest</string>
+    <string name="musical_fountain">Musical Fountain on Margaret Island</string>
+    <string name="library">Szabo Ervin Library</string>
+    <string name="house_of_terror">House of Terror Museum</string>
+    <string name="cave_church">Budapest Cave Church</string>
+    <string name="shoes_on_promenade">Shoes on the Danube Promenade</string>
+    <string name="power_station">Kelenfold Power Station</string>
+    <string name="hospital">Hospital in the Rock</string>
+    <string name="children_railway">Childrens Railway</string>
+    <string name="unique">Unique Hungary (programmes)</string>
+    <string name="beyond">Beyond Budapest (tours)</string>
+    <string name="flea_market">Ecseri Flea Market</string>
+    <string name="trabant_tour">Rent a Trabant tour</string>
+    <string name="shooting">Celeritas Shooting Club</string>
+    <string name="escape_rooms">Room escape games</string>
+
+
+    <!-- Phrases Fragment-->
+
+    <string name="phrase_1_eng">Hello</string>
+    <string name="phrase_1_hun">Szia</string>
+    <string name="phrase_2_eng">What is your name?</string>
+    <string name="phrase_2_hun">Hogy hívnak?</string>
+    <string name="phrase_3_eng">How are you?</string>
+    <string name="phrase_3_hun">Hogy vagy?</string>
+    <string name="phrase_4_eng">I am fine</string>
+    <string name="phrase_4_hun">Jól vagyok</string>
+    <string name="phrase_5_eng">Excuse me</string>
+    <string name="phrase_5_hun">Elnézést</string>
+    <string name="phrase_6_eng">Please</string>
+    <string name="phrase_6_hun">Kérem</string>
+    <string name="phrase_7_eng">Thank you</string>
+    <string name="phrase_7_hun">Köszönöm</string>
+    <string name="phrase_8_eng">Yes</string>
+    <string name="phrase_8_hun">Igen</string>
+    <string name="phrase_9_eng">No</string>
+    <string name="phrase_9_hun">Nem</string>
+    <string name="phrase_10_eng">Right</string>
+    <string name="phrase_10_hun">Jobbra</string>
+    <string name="phrase_11_eng">Left</string>
+    <string name="phrase_11_hun">Balra</string>
+    <string name="phrase_12_eng">Enterance </string>
+    <string name="phrase_12_hun">Bejárat</string>
+    <string name="phrase_13_eng">Exit</string>
+    <string name="phrase_13_hun">Kijárat</string>
+    <string name="phrase_14_eng">I do not understand</string>
+    <string name="phrase_14_hun">Nem értem</string>
+    <string name="phrase_15_eng">What is the time</string>
+    <string name="phrase_15_hun">Mennyi az idő?</string>
+    <string name="phrase_16_eng"> I would like a goulash</string>
+    <string name="phrase_16_hun">Szeretnék egy gulyást</string>
+    <string name="phrase_17_eng">What does it cost?</string>
+    <string name="phrase_17_hun">Mennyibe kerül?</string>
+    <string name="phrase_18_eng">Where is it?</string>
+    <string name="phrase_18_hun">Hol van?</string>
+    <string name="phrase_19_eng">Cheers</string>
+    <string name="phrase_19_hun">Egészségedre</string>
+    <string name="phrase_20_eng">Can you help me please?</string>
+    <string name="phrase_20_hun">Tudsz nekem segíteni?</string>
+
+</resources>
